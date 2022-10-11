@@ -1,4 +1,4 @@
-👋 Hi, I’m **Safak Komurlu**.
+👋 Hi, I’m **Safak Komurlu**
 
 **AQ Engineer** who strives to stay current in the software industry participates in the quality control procedures for the applications that significantly improve our quality of life and seek to produce high-quality products. Also enjoy picking up new skills, such as learning new programming languages and tools.
 
